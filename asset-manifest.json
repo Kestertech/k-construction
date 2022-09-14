@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/k-construction/static/css/main.67bb596c.css",
-    "main.js": "/k-construction/static/js/main.a07723d8.js",
+    "main.js": "/k-construction/static/js/main.057cbfd9.js",
     "static/js/787.71a2c7b2.chunk.js": "/k-construction/static/js/787.71a2c7b2.chunk.js",
     "static/media/Image-01.jpeg": "/k-construction/static/media/Image-01.373a713991620a79e0d1.jpeg",
     "static/media/slider11.jpg": "/k-construction/static/media/slider11.931ff98bbc7cc9f805f8.jpg",
@@ -19,11 +19,11 @@
     "static/media/logo.svg": "/k-construction/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/k-construction/index.html",
     "main.67bb596c.css.map": "/k-construction/static/css/main.67bb596c.css.map",
-    "main.a07723d8.js.map": "/k-construction/static/js/main.a07723d8.js.map",
+    "main.057cbfd9.js.map": "/k-construction/static/js/main.057cbfd9.js.map",
     "787.71a2c7b2.chunk.js.map": "/k-construction/static/js/787.71a2c7b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67bb596c.css",
-    "static/js/main.a07723d8.js"
+    "static/js/main.057cbfd9.js"
   ]
 }
